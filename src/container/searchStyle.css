@@ -1,0 +1,37 @@
+.search_block{
+    width: 400px;
+}
+.sort_block{
+ background: #ffffff;
+    width: 200px;
+}
+.category_block{
+    background: #ffffff;
+    width: 200px;
+}
+@media (max-width: 540px) {
+    .search_block{
+        width: 300px;
+    }
+    .sort_block{
+
+        width: 150px;
+    }
+    .category_block{
+
+        width: 150px;
+    }
+}
+@media (max-width: 320px) {
+    .search_block{
+        width: 200px;
+    }
+    .sort_block{
+
+        width: 100px;
+    }
+    .category_block{
+
+        width: 100px;
+    }
+}
