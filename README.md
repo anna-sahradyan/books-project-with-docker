@@ -7,4 +7,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 
 Open  [https://65202cc5c240cb0dd7635fcb--delicate-sunburst-346825.netlify.app/](https://65202cc5c240cb0dd7635fcb--delicate-sunburst-346825.netlify.app/)
+![image](https://github.com/anna-sahradyan/books-project-with-docker/assets/71427017/56e7873e-19a3-48f8-8130-a19da515be59)
+
 
